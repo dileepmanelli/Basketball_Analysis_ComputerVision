@@ -26,11 +26,16 @@ pip install -r requirements.txt
 
 Choose Analysis Script:
 
+### Analyze Basketball Videos
+
 Decide which analysis you want to run:
-To count dribbles: python dribble_counting.py
-To analyze ball speed: python ball_speed.py
-To calculate the distance covered: python distance_covered.py
-Follow Script Instructions:
+
+- **To count dribbles:** Run `python dribble_counting.py`
+- **To analyze ball speed:** Run `python ball_speed.py`
+- **To calculate the distance covered:** Run `python distance_covered.py`
+
+Follow the script instructions to run the chosen analysis.
+
 
 Run the chosen analysis script in your terminal or command prompt.
 Follow any additional instructions provided in the scripts or in the repository's README file.
