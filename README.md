@@ -6,6 +6,7 @@ Open a terminal or command prompt on your local machine.
 Use the git clone command followed by the repository's URL to clone it:
 bash
 Copy code
+
 git clone https://github.com/ayushpai/AI-Basketball-Referee.git
 Navigate to the Cloned Directory:
 
@@ -22,6 +23,7 @@ Ensure that you have the necessary dependencies installed by running:
 bash
 Copy code
 pip install -r requirements.txt
+
 Choose Analysis Script:
 
 Decide which analysis you want to run:
