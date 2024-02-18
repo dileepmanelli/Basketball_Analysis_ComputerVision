@@ -1,11 +1,17 @@
 Clone the Repository:
 
-Go to the GitHub repository: AI-Basketball-Referee.
-Click on the "Code" button and copy the repository's URL.
-Open a terminal or command prompt on your local machine.
-Use the git clone command followed by the repository's URL to clone it:
-bash
-Copy code
+## AI Basketball Referee
+
+### Clone the Repository:
+
+1. Go to the GitHub repository: [AI-Basketball-Referee](https://github.com/ayushpai/AI-Basketball-Referee).
+2. Click on the "Code" button and copy the repository's URL.
+3. Open a terminal or command prompt on your local machine.
+4. Use the `git clone` command followed by the repository's URL to clone it:
+
+```bash
+git clone https://github.com/ayushpai/AI-Basketball-Referee.git
+
 
 git clone https://github.com/ayushpai/AI-Basketball-Referee.git
 Navigate to the Cloned Directory:
