@@ -9,7 +9,7 @@ Clone the Repository:
 3. Open a terminal or command prompt on your local machine.
 4. Use the `git clone` command followed by the repository's URL to clone it:
 
-```bash
+```
 git clone https://github.com/ayushpai/AI-Basketball-Referee.git
 
 
@@ -17,28 +17,30 @@ git clone https://github.com/ayushpai/AI-Basketball-Referee.git
 Navigate to the Cloned Directory:
 
 Use the cd command to navigate into the cloned repository's directory:
-bash
-Copy code
+```
 cd AI-Basketball-Referee
+```
 Replace Existing Files:
 
 Replace the existing files in the repository with the updated versions provided to ensure you have the latest changes.
 Install Dependencies:
 
 Ensure that you have the necessary dependencies installed by running:
-bash
-Copy code
+
+```
 pip install -r requirements.txt
+```
 
 Choose Analysis Script:
 
 ### Analyze Basketball Videos
 
 Decide which analysis you want to run:
-
+```
 - **To count dribbles:** Run `python dribble_counting.py`
 - **To analyze ball speed:** Run `python ball_speed.py`
 - **To calculate the distance covered:** Run `python distance_covered.py`
+  ```
 
 Follow the script instructions to run the chosen analysis.
 
