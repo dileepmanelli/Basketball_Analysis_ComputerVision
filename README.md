@@ -10,9 +10,6 @@ Clone the Repository:
 4. Use the `git clone` command followed by the repository's URL to clone it:
 
 ```
-
-
-
 git clone https://github.com/ayushpai/AI-Basketball-Referee.git
 ```
 Navigate to the Cloned Directory:
